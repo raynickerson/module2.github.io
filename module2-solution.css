@@ -1,0 +1,99 @@
+@media (min-width: 992px) {
+    .section-lg-1{
+        float: left;
+        width: 30%;
+        background-color: rgb(39, 42, 46);
+        margin: 1.25%;
+        border-style: solid;
+        border-color: rgb(68, 74, 81);
+        color: aliceblue;
+        
+    }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+    .section-m-1{
+        float: left;
+        width: 46%;
+        background-color: rgb(39, 42, 46);
+        border-style: solid;
+        border-color: rgb(68, 74, 81);
+        margin: 1%;
+        color: aliceblue;
+       
+    }
+    .section-m-2 {
+        float: left;
+        width: 100%;
+        background-color: rgb(39, 42, 46);
+        border-style: solid;
+        border-color: rgb(68, 74, 81);
+        margin: 1%;
+        margin-top: 1%;
+        color: aliceblue;
+        
+    }
+}
+
+@media (max-width: 767px) {
+    .section-s-1 {
+        float: left;
+        background-color: rgb(39, 42, 46);
+        border-style: solid;
+        border-color: rgb(68, 74, 81);
+        margin-bottom: 1%;
+        color: aliceblue;
+       
+    }
+}
+
+.fonts1 {
+    font-size: 200%;
+    text-align:  center;
+    background-color: rgb(27, 27, 74);
+    width: 55%;
+    margin-left: 45%;
+       
+}
+.fonts2 {
+    font-size: 200%;
+    text-align: center;
+    background-color: rgb(106, 37, 48);
+    width: 55%;
+    margin-left: 45%;
+    
+}
+.fonts3 {
+    font-size: 200%;
+    text-align: center;
+    background-color:  lightsalmon;
+    width: 55%;
+    margin-left: 45%;
+}
+
+.topright {
+    margin-top: 0%;
+    margin-right: 0%;
+
+}
+
+.h1center {
+    text-align: center;
+    font-size: 350%;
+    background-color: rgb(39, 42, 46);
+    border-style: solid;
+    border-color: rgb(68, 74, 81);    
+    width: 50%;
+    margin-left: 25%;
+    color: aliceblue;
+}
+
+.homepage {
+    background-color: rgb(0, 0, 1);
+    margin: 5px;
+    
+}
+
+.box {
+    margin: 5px;
+}
